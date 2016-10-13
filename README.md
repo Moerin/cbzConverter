@@ -1,3 +1,3 @@
-# cbzConverter project
+# cbzConverter project dev
 
 # TODO
